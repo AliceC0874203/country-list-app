@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "country-list-app",
+    "sdkVersion": "47.0.0",
     "slug": "country-list-app",
     "version": "1.0.0",
     "orientation": "portrait",
